@@ -39,6 +39,10 @@ ul {
   color: #404bbf;
 }
 
+.contact {
+  font-style: normal;
+}
+
 .contact .contact-link {
   font-weight: 400;
   font-size: 16px;
@@ -111,10 +115,10 @@ ul {
 }
 
 .team {
-  background: #f4f4fd;
+  background-color: #f4f4fd;
 }
 
-.team-list li {
+.team-list {
   text-align: center;
   background-color: #ffffff;
 }
