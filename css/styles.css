@@ -39,20 +39,17 @@ ul {
   color: #404bbf;
 }
 
-.contact {
+.contact .contact-link {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   font-style: normal;
   letter-spacing: 0.02em;
-}
-
-.contact-link {
   color: #434455;
 }
 
-.contact-link:hover,
-.contact-link:focus {
+.contact .contact-link:hover,
+.contact .contact-link:focus {
   color: #404bbf;
 }
 
