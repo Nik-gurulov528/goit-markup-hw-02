@@ -1,2 +1,3 @@
-# goit-markup-hw-01
-This is my 1st homework
+# goit-markup-hw-02
+
+CSS is amazing!
